@@ -1,4 +1,4 @@
-#include <cstdlib>
+#include <stdlib.h>
 
 int main() {
     const char* string = "12";
